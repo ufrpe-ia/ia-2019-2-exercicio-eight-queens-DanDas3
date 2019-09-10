@@ -1,5 +1,6 @@
 # Exercício: Eight Queens Problem
 ## O problema das 8 rainhas
+NOME: Danilo de Araújo Silva
 
 O quebra-cabeça das oito rainhas, ou o problema das oito rainhas, pergunta como colocar oito rainhas em um tabuleiro de xadrez sem atacar umas às outras. 
 
